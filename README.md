@@ -13,7 +13,7 @@ Repository URL: https://github.com/FionVVen/Professional-README-Generator/
 
 The following video demonstrates the application's functionality:
 
-![Walkthrough Video](https://user-images.githubusercontent.com/74234811/107212539-39401000-6a5b-11eb-99f3-8b1bf275825d.mp4)
+![Walkthrough Video](./assets/walkthrough.gif)
 
 The following image demonstrates the final appearance of the sample README file:
 
